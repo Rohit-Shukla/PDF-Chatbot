@@ -1,5 +1,5 @@
 # PDF-Chatbot
-PDF Q&A chatbot using LangChain and Gemini Pro
+PDF Q&amp;A chatbot using LangChain and Gemini Pro
 
 # LangChain:
 LangChain is a orchestration framework for LLMs. It give us whole flexibility to use LLMs and utilize its intelligence as per our usecase.
@@ -22,3 +22,5 @@ Streamlit is an open source python library/framework used to create and share we
 6. Searching and extracting most similar chunks from vector db using (using semantic search or cosine similariy)
 7. Passing most similar chunk along with question as an input prompt to LLM. (RAG)
 8. LLM will generate relevant output as per user question.
+
+
